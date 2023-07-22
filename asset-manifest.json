@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f77dc6f9.css",
+    "main.js": "/static/js/main.91e03fab.js",
+    "static/media/chart.png": "/static/media/chart.1720b6270d5d9dd8d49e.png",
+    "static/media/notebook.png": "/static/media/notebook.ca975673586561ca5096.png",
+    "static/media/file.png": "/static/media/file.0f77e7fd49db2e544d58.png",
+    "static/media/phone.png": "/static/media/phone.59cd56b75c815dbfd928.png",
+    "static/media/whitechart.png": "/static/media/whitechart.5272a517ddc63ac35b54.png",
+    "static/media/whitecalendar.png": "/static/media/whitecalendar.4d01ff39a0c57f18240d.png",
+    "static/media/whitefile.png": "/static/media/whitefile.5b8794769a210aafe22d.png",
+    "static/media/boy.png": "/static/media/boy.ad0403fd6cb2fdfe9492.png",
+    "static/media/whitenotebook.png": "/static/media/whitenotebook.5dd70b1a6cdfb875d369.png",
+    "static/media/whitephone.png": "/static/media/whitephone.c1a7b848e0390a166ea9.png",
+    "static/media/whiteboy.png": "/static/media/whiteboy.0188443c794ff8d7f823.png",
+    "static/media/Calendar.png": "/static/media/Calendar.9cd9cf89f332b9373e38.png",
+    "index.html": "/index.html",
+    "main.f77dc6f9.css.map": "/static/css/main.f77dc6f9.css.map",
+    "main.91e03fab.js.map": "/static/js/main.91e03fab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77dc6f9.css",
+    "static/js/main.91e03fab.js"
+  ]
+}
